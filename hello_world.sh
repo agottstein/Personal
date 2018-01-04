@@ -1,2 +1,2 @@
 echo "hello world"
-echo "I am in pycharm 6"
+echo "I am in pycharm 7"
